@@ -1,0 +1,34 @@
+.donut{
+    color: darkmagenta;
+    font-family: cursive;
+}
+
+.youtube{
+    width: 500px;
+    height: 280px;
+}
+.badlandsocean{
+    width: 400px;
+    height: 400px;
+}
+.badlandcokes{
+    width: 700px;
+    height: 700px;
+}
+.notes{
+    font-family:fantasy;
+    font-style: italic;
+    color: brown;
+}
+.listitems
+{
+    color: white;
+    font-size: 15px; 
+    font-family: monospace;
+}
+.conclusion
+{
+    color: green;
+    font-size: 30px;
+    font-family:sans-serif;
+}
